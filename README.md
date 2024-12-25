@@ -349,3 +349,7 @@ Dự án này được phát triển bằng **Android Native** (Java hoặc Kotl
     }
 }
 ```
+
+<img src="assets/screen1.png" alt="Alt text" width="300">
+
+<img src="assets/screen2.png" alt="Alt text" width="300">
