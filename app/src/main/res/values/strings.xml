@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">List Fragment</string>
+    <string name="second_fragment_label">Detail Fragment</string>
+    <string name="next">Next</string>
+    <string name="delete">Delete</string>
+
+    <!-- Sort options -->
+    <array name="sort_options">
+        <item>Index</item>
+        <item>Title</item>
+        <item>Date</item>
+    </array>
+</resources>
